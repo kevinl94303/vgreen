@@ -56,7 +56,7 @@
     "style-loader": "0.23.1",
     "styled-components": "^4.3.2",
     "terser-webpack-plugin": "1.2.3",
-    "three": "^0.69.0",
+    "three": "^0.125.0",
     "ts-pnp": "1.1.2",
     "url-loader": "1.1.2",
     "webpack": "4.29.6",
